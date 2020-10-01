@@ -1,0 +1,37 @@
+
+body{
+	font-family: 'Nunito', sans-serif;
+	color: #3c3939;
+	background-color: #f1f1f1;
+}
+
+.title-pro{
+	text-align: center;
+}
+
+.profile{
+	width: 400px;
+	margin: auto;
+	background: #fff;
+	box-shadow: 0 4px 10px 0 rgba(0,0,0,0.5);	
+}
+
+.image-container{
+	position: relative;
+}
+
+.icon{
+	color: #4b4fe2;
+	margin-left: 16px;
+	width: 26px;
+	float: left;
+	text-align: center;
+	white-space: 10px;
+}
+
+.main-container{
+	padding:20px;
+	font-size: 18px;
+	
+
+}
